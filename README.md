@@ -1,5 +1,7 @@
-### Hi there 👋
 
+
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Feria+Code&duration=3000&pause=250&width=435&lines=Hi!+I'm+Jamie...;I+like+design%2C+software+and+machine+learning.;%3AD)](https://git.io/typing-svg)
 <!--
 **JamieDoe/JamieDoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
