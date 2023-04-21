@@ -6,3 +6,10 @@
 [![Jamie's Github Stats](https://github-readme-stats.vercel.app/api?username=JamieDoe&hide=stars,prs&theme=github_dark&show_icons=true)](https://github.com/JamieDoe/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamieDoe&layout=compact&theme=github_dark&show_icons=true)](https://github.com/JamieDoe/github-readme-stats)
+
+<a href="https://github.com/JamieDoe/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JamieDoe&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/JamieDoe/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JamieDoe&repo=convoychat" />
+</a>
