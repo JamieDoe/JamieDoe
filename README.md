@@ -5,4 +5,4 @@
 
 [![Jamie's Github Stats](https://github-readme-stats.vercel.app/api?username=JamieDoe&hide=stars,prs&theme=github_dark)](https://github.com/JamieDoe/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamieDoe&layout=compact)](https://github.com/JamieDoe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamieDoe&layout=compact&theme=github_dark)](https://github.com/JamieDoe/github-readme-stats)
